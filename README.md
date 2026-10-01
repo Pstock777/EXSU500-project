@@ -10,3 +10,9 @@ Can machine learning identify individuals with elevated depressive symptoms usin
 **License:** Publicly available U.S. government data
 
 **Open-source licence:** MIT
+
+## Task
+Binary Classification
+
+## Problem and why it matters
+Depression is a mood disorder that affects around 5.2 % of the adult population globally and can pose significant risks on an individual's physical health. Identification of individuals with elevated depressive symptoms could improve early disorder detection and provide individuals with preventive interventions or additional support.  
